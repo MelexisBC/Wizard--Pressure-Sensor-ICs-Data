@@ -2,7 +2,7 @@ Type;Pressure;Class;Status;Part number;Supply voltage;Temperature;Output type;Pa
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-000;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0.05 to -1.05 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-003;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0 to 1 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-007;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0 to -1 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
-SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-100;4.5 to 5.5;-40 to 150;Digital SENT;SOIC-16;;0.05 to -1.2 bar / 193 to 3896 LSB ;;https://melexis.com/MLX90809
+SMD bbb;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-100;4.5 to 5.5;-40 to 150;Digital SENT;SOIC-16;;0.05 to -1.2 bar / 193 to 3896 LSB ;;https://melexis.com/MLX90809
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90821LXG-DBA-003;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;-0.06 to 0.26 bar / 0.5V to 4.5 V;;https://melexis.com/MLX90821
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90821LXG-DBA-005;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;-0.05 to 0.05 bar / 0.5 V to 4.5 V ;;https://melexis.com/MLX90821
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90821LXG-DBA-006;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;-0.2 to 0.5 bar / 4.5 V to 0.5 V;;https://melexis.com/MLX90821
