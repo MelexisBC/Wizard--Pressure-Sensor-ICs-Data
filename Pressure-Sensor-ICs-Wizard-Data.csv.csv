@@ -1,0 +1,47 @@
+Type,Pressure,Class,Status,Part number,Supply voltage,Temperature,Output type,Package type,Harsh media,Factory calibrated,Calibratable pressure spans,Product page
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90809LXG-EAD-000,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,0.05 to -1.05 bar / 0.5 to 4.5 V,,https://melexis.com/MLX90809
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90809LXG-EAD-003,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,0 to 1 bar / 0.5 to 4.5 V,,https://melexis.com/MLX90809
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90809LXG-EAD-007,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,0 to -1 bar / 0.5 to 4.5 V,,https://melexis.com/MLX90809
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90809LXG-EAD-100,4.5 to 5.5,-40 to 150,Digital SENT,SOIC-16,,0.05 to -1.2 bar / 193 to 3896 LSB ,,https://melexis.com/MLX90809
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821LXG-DBA-003,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,-0.06 to 0.26 bar / 0.5V to 4.5 V,,https://melexis.com/MLX90821
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821LXG-DBA-005,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,-0.05 to 0.05 bar / 0.5 V to 4.5 V ,,https://melexis.com/MLX90821
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821LXG-DBA-006,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,-0.2 to 0.5 bar / 4.5 V to 0.5 V,,https://melexis.com/MLX90821
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821LXG-DBA-007,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,-0.1 to 0.1 bar / 0.5 V to 4.5 V,,https://melexis.com/MLX90821
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821VXG-DBA-008,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16,,-0.0375 to 0.0125 bar / 4.5 V to 0.5 V,,https://melexis.com/MLX90821
+SMD,Relative,LOW (0.1 - 5 bar),Production,MLX90821LXG-DBA-100,4.5 to 5.5,-40 to 150,Digital SENT,SOIC-16,,-0.06 to 0.26 bar / 193 to 3896 LSB / NTC,,https://melexis.com/MLX90821
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBG-001,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.5 to 4 bar / 0.5 V to 4.5 V ,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBG-003,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.2 to 5.5 bar / 0.5 V to 4.5 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBH-008,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.1 to 1.15 bar / 0.4 V to 4.65 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBG-010,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.2 to 2.5 bar / 0.2 V to 4.8 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBG-012,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.2 to 3 bar / 0.4 V to 4.65 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DBH-014,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,,0.133 to 1.199 bar / 1 V to 4.2 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DCG-000,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,✔,0.2 to 4 bar / 0.4 V to 4.65 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90817LXE-DCH-008,4.5 to 5.5,-40 to 150,Analog ratiometric,DFN-14,✔,0.1 to 1.15 bar / 0.4 V to 4.65 V,,https://melexis.com/MLX90817
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90818LXE-BBG-015,4.5 to 5.5,-40 to 150,Digital SENT,DFN-14,✔,0.1 to 4 bar / 193 to 3896 LSB,,https://melexis.com/MLX90818
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90818LXE-BBG-016,4.5 to 5.5,-40 to 150,Digital SENT,DFN-14,✔,0.1 to 3 bar / 193 to 3896 LSB / NTC,,https://melexis.com/MLX90818
+SMD,Absolute,LOW (0.1 - 5 bar),Production,MLX90818LXE-BBG-017,4.5 to 5.5,-40 to 150,Digital SENT,DFN-14,✔,0.1 to 4 bar / 193 to 3896 LSB  / NTC,,https://melexis.com/MLX90818
+Bare die,Relative,MID (5 - 70 bar),Production,MLX90819LUF-EBA-000,4.5 to 5.5,-40 to 150,Analog ratiometric|Digital SENT,Bare die,,,10 - 35 bar full span,https://melexis.com/MLX90819
+Bare die,Relative,MID (5 - 70 bar),Production,MLX90819LUF-EBB-000,4.5 to 5.5,-40 to 150,Analog ratiometric|Digital SENT,Bare die,,,30 - 50 bar full span,https://melexis.com/MLX90819
+Bare die,Absolute,MID (5 - 70 bar),Production,MLX90820LUF-EBA-000,4.5 to 5.5,-40 to 150,Analog ratiometric|Digital SENT,Bare die,,,10 - 35 bar full span,https://melexis.com/MLX90820
+Bare die,Absolute,MID (5 - 70 bar),Production,MLX90820LUF-EBB-000,4.5 to 5.5,-40 to 150,Analog ratiometric|Digital SENT,Bare die,,,30 - 50 bar full span,https://melexis.com/MLX90820
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90822GXP-BAA-300,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0.1 to 1.15 bar  / 0.5 V to 4.5 V,,https://melexis.com/MLX90822
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90822GXP-BAB-301,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0.1 to 3 bar / 0.5 V to 4.5 V,,https://melexis.com/MLX90822
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90822GXP-BAB-302,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0.1 to 4 bar / 0.5 V to 4.5 V ,,https://melexis.com/MLX90822
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90822GXP-BAA-304,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0.1 to 1.15 bar / 0.4 V to 4.65 V,,https://melexis.com/MLX90822
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90823GXP-BAD-301,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,-0.2 to 0.5 bar / 0.5V to 4.5V,,https://melexis.com/MLX90823
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90823GXP-BAF-305,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,-0.017 to 0.345 bar / 0.5V to 4.5V,,https://melexis.com/MLX90823
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90823GXP-BAD-306,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0 to -1.0 bar / 0.5V to 4.5V,,https://melexis.com/MLX90823
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90823GXP-BAD-308,4.5 to 5.5,-40 to 160,Analog ratiometric,SMP-7,✔,0 to 1.0 bar / 0.5V to 4.5V,,https://melexis.com/MLX90823
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90824GXP-DAC-300,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,0.1 to 1.15 bar / 193 to 3896 LSB / NTC,,https://melexis.com/MLX90824
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90824GXP-DAD-301,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,0.1 to 3 bar / 193 to 3896 LSB / NTC,,https://melexis.com/MLX90824
+PCB-less,Absolute,LOW (0.1 - 5 bar),Production,MLX90824GXP-DAD-302,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,0.1 to 4 bar / 193 to 3896 LSB / NTC,,https://melexis.com/MLX90824
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-300,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,-0.2 to 0.8 bar / 193 to 3896LSB / No NTC ,,https://melexis.com/MLX90825
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-302,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,0 to 0.5 bar / 193 to 3896LSB / No NTC,,https://melexis.com/MLX90825
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-400,4.5 to 5.5,-40 to 160, Digital SENT,SMP-7,✔,-0.2 to 0.8 bar / 193 to 3896LSB / Master / No NTC,,https://melexis.com/MLX90825
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-500,4.5 to 5.5,-40 to 160, Digital SENT|UART,SMP-7,✔,-0.2 to 0.8 bar / UART output / Slave / No NTC,,https://melexis.com/MLX90825
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-404,4.5 to 5.5,-40 to 160, Digital SENT ,SMP-7,✔,-0.3 to 1 bar / 193 to 3896LSB  / Master / No NTC ,,https://melexis.com/MLX90825
+PCB-less,Relative,LOW (0.1 - 5 bar),Production,MLX90825GXP-DAD-504,4.5 to 5.5,-40 to 160, Digital SENT|UART,SMP-7,✔,-0.3 to 1 bar / UART output / Slave / No NTC,,https://melexis.com/MLX90825
+Triphibian™,Absolute,LOW (0.1 - 5 bar)|MID (5 - 70 bar),Production,MLX90830-LXG-BAH-001,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16 cavity up,,0 to 10.342 bar (= 150PSI) / 0.5 to 4.5V,,https://melexis.com/MLX90830
+Triphibian™,Absolute,LOW (0.1 - 5 bar)|MID (5 - 70 bar),Production,MLX90830-LXG-BAF-002,4.5 to 5.5,-40 to 150,Analog ratiometric,SOIC-16 cavity up,,0 to 34.474 bar (= 500PSI) / 0.5 to 4.5V,,https://melexis.com/MLX90830
+Triphibian™,Absolute,LOW (0.1 - 5 bar)|MID (5 - 70 bar),Production,MLX90834-LXG-DAH-003,4.5 to 5.5,-40 to 150, Digital SENT ,SOIC-16 cavity down,,0 to 12 bar / 193 to 3896LSB / NTC,,https://melexis.com/MLX90834
+Triphibian™,Absolute,LOW (0.1 - 5 bar)|MID (5 - 70 bar),Production,MLX90834-LXG-DAF-004,4.5 to 5.5,-40 to 150, Digital SENT ,SOIC-16 cavity down,,0 to 36 bar / 193 to 3896LSB / NTC,,https://melexis.com/MLX90834
