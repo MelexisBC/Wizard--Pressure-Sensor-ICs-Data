@@ -1,4 +1,4 @@
-Type;Pressure;Class;Status;Part number;;Supply voltage;Temperature;Output type;Package type;Harsh media;Factory calibrated;Calibratable pressure spans;Product page
+Type;Pressure;Class;Status;Part number;Datasheet;Supply voltage;Temperature;Output type;Package type;Harsh media;Factory calibrated;Calibratable pressure spans;Product page
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-000;;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0.05 to -1.05 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-003;;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0 to 1 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
 SMD;Relative;LOW (0.1 - 5 bar);Production;MLX90809LXG-EAD-007;;4.5 to 5.5;-40 to 150;Analog ratiometric;SOIC-16;;0 to -1 bar / 0.5 to 4.5 V;;https://melexis.com/MLX90809
